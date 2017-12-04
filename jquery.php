@@ -25,7 +25,7 @@
 <p>If you click on me, I will disappear.</p>
 <p>Click me away!</p>
 <p>Click me too!</p>
-
+<P>hi git</P>
 
 <div id="a">This is another paragraph.</div>
 
